@@ -1,5 +1,5 @@
 * {
-    margin: 0px;
+    margin: 0;
 }
 .hello {
     margin: 15px;
@@ -7,4 +7,50 @@
     border: 1px #ccc solid;
     background-color: #fff;
     padding: 20px;
+}
+.lolla {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.link:hover {
+    text-decoration: underline;
+    color: rgb(52, 52, 177);
+}
+.h1 {
+    color: rgb(109, 109, 235);
+    margin: 100px;
+    background-color: purple;
+}
+#dumb{
+    font-family: "Abraham Demo", serif;
+    size: auto;
+    border-color: cadetblue;
+}
+#nice{
+    font-family: "Baskerville Old Face", serif;
+    font-size: 24px;
+    color: darkblue;
+}
+#lmao{
+    font-family: "Abraham Rounded Demo", serif;
+    font-size: 50px;
+    color: darkgreen;
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+    size: 90px;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+.nodes {
+    display: flex;
+    align-items: center;
+    background-color: coral;
 }
