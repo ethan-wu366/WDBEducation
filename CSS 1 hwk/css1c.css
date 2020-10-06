@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+}
+.hello {
+    margin: 15px;
+    width: 500px;
+    border: 1px #ccc solid;
+    background-color: #fff;
+    padding: 20px;
+}

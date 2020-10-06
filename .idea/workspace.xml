@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ccd2168-e27a-4860-98c6-707a2f734f81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS 1 hwk/css1c.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS 1 hwk/css1c.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS 1 hwk/css1h.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS 1 hwk/css1h.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../css1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1601355033127" duration="5047000" />
       <workItem from="1601518440412" duration="568000" />
       <workItem from="1601929249153" duration="1188000" />
-      <workItem from="1601956880748" duration="2129000" />
+      <workItem from="1601956880748" duration="2768000" />
     </task>
     <servers />
   </component>
