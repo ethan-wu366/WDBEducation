@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71ba4725-c6aa-4191-bb58-50ad06688c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS 1 hwk/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -56,6 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS 1 hwk" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602302041134</updated>
       <workItem from="1602302042266" duration="685000" />
-      <workItem from="1602303989496" duration="6783000" />
+      <workItem from="1602303989496" duration="10600000" />
     </task>
     <servers />
   </component>
@@ -94,5 +92,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="422" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602305576403" />
+    <state x="150" y="6" key="SettingsEditor" timestamp="1602320879438">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="150" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1602320879438" />
   </component>
 </project>

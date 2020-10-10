@@ -6,17 +6,46 @@
 }
 .title {
     text-align: center;
-
     font-weight: normal;
     font-size: 30px;
 }
 .title-border {
     border-radius: 0;
-    border-bottom-style: solid;
-    border-bottom-color: black;
+    border-bottom: 3px solid black;
 }
 .main-body {
-    
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    border-bottom: 3px solid black;
+    border-left: 1px solid black;
+}
+.left-section {
+    text-align: center;
+    width: 25%;
+    border-right: 1px solid black;
+    padding: 0 10px;
+}
+.center-section {
+    text-align: center;
+    width: 50%;
+    padding: 0 10px;
+    border-right: 1px solid black;
+}
+.right-section {
+    text-align: center;
+    width: 25%;
+    padding: 0 10px;
+    border-right: 1px solid black;
+}
+.article-title {
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+.article-text {
+    text-align: left;
 }
 #title-text {
     font-family: "Times New Roman", serif;
