@@ -40,6 +40,7 @@
 }
 .bottom-right-section {
     padding-left: 30px;
+    border-right: 1px solid black;
 }
 .article-title {
     font-size: 30px;
@@ -55,21 +56,51 @@
     font-family: "Futura", serif;
     color: #666;
     font-size: 30px;
-
+    padding-left: 30px;
 }
 .final-section {
     display: flex;
     flex-direction: column;
     align-items: stretch;
     justify-content: center;
-    padding-left: 10%;
+    padding-left: 0;
     margin: 0;
+    width: 100%;
 }
 .section-politics {
     background-color: #ffeaa7;
     display: flex;
     align-items: center;
     height: 10%;
+    flex: 1;
+}
+.section-technology {
+    background-color: #81ecec;
+    display: flex;
+    align-items: center;
+    height: 10%;
+    flex: 1;
+}
+.section-local {
+    background-color: #55efc4;
+    display: flex;
+    align-items: center;
+    height: 10%;
+    flex: 1;
+}
+.section-opinion {
+    background-color: #74b9ff;
+    display: flex;
+    align-items: center;
+    height: 10%;
+    flex: 1;
+}
+.section-sports {
+    background-color: #a29bfe;
+    display: flex;
+    align-items: center;
+    height: 10%;
+    flex: 1;
 }
 #title-text {
     font-family: "Times New Roman", serif;
