@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+.h1 {
+
+}
+.title {
+    text-align: center;
+
+    font-weight: normal;
+    font-size: 30px;
+}
+.title-border {
+    border-radius: 0;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+.main-body {
+    
+}
+#title-text {
+    font-family: "Times New Roman", serif;
+    size: auto;
+}

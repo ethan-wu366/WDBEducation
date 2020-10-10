@@ -19,55 +19,44 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71ba4725-c6aa-4191-bb58-50ad06688c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSS 1 hwk/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="36b27b31-7c5b-49c7-b2ae-3c430a29a9e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ifcMkRFvwElMqKAKSPQlbL3i3x" />
+  <component name="ProjectId" id="1ifjXMh6Yka26T6bezOdHck6qfE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS 1 hwk" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71ba4725-c6aa-4191-bb58-50ad06688c5a" name="Default Changelist" comment="" />
-      <created>1602302041134</created>
+      <changelist id="36b27b31-7c5b-49c7-b2ae-3c430a29a9e6" name="Default Changelist" comment="" />
+      <created>1602305579265</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602302041134</updated>
-      <workItem from="1602302042266" duration="685000" />
-      <workItem from="1602303989496" duration="6783000" />
+      <updated>1602305579265</updated>
+      <workItem from="1602305580456" duration="2261000" />
     </task>
     <servers />
   </component>
@@ -84,15 +73,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602307145998">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1602307145998" />
-    <state x="422" y="116" key="FileChooserDialogImpl" timestamp="1602305576403">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="422" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602305576403" />
   </component>
 </project>
