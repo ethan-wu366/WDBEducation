@@ -38,6 +38,9 @@
     padding: 0 10px;
     border-right: 1px solid black;
 }
+.bottom-right-section {
+    padding-left: 30px;
+}
 .article-title {
     font-size: 30px;
     font-weight: normal;
@@ -46,6 +49,27 @@
 }
 .article-text {
     text-align: left;
+}
+.row-text {
+    font-weight: bold;
+    font-family: "Futura", serif;
+    color: #666;
+    font-size: 30px;
+
+}
+.final-section {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    padding-left: 10%;
+    margin: 0;
+}
+.section-politics {
+    background-color: #ffeaa7;
+    display: flex;
+    align-items: center;
+    height: 10%;
 }
 #title-text {
     font-family: "Times New Roman", serif;
