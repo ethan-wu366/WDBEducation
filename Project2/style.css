@@ -1,0 +1,21 @@
+.calculator {
+    background-color: black;
+    width: 400px;
+    /*height: 600px;*/
+}
+section {
+    display: block;
+}
+.top-screen {
+    text-align: right;
+    color: white;
+    font-size: 40px;
+    font-family: "Courier New", Courier, monospace;
+    padding: 20px 5px;
+}
+.buttons-area {
+
+}
+.button-row {
+
+}

@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="71ba4725-c6aa-4191-bb58-50ad06688c5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS 1 hwk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -64,6 +67,7 @@
       <workItem from="1602302042266" duration="685000" />
       <workItem from="1602303989496" duration="13204000" />
       <workItem from="1603056356346" duration="132000" />
+      <workItem from="1603059350973" duration="1364000" />
     </task>
     <servers />
   </component>
