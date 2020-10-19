@@ -17,5 +17,24 @@ section {
 
 }
 .button-row {
-
+    display: flex;
+    align-content: stretch;
+    justify-content: space-between;
+    margin-bottom: 0.5%;
+}
+.button-one {
+    width: 24.5%;
+    height: 100px;
+    font-size: 40px;
+    cursor: pointer;
+}
+.double {
+    width: 49%;
+}
+.triple {
+    width: 74%;
+}
+.row-last {
+    background-color: #df974c;
+    color: white;
 }
