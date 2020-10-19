@@ -27,14 +27,19 @@ section {
     height: 100px;
     font-size: 40px;
     cursor: pointer;
+    background-color: #d8d9db;
+    border: 0;
 }
 .double {
-    width: 49%;
+    width: 49.7%;
 }
 .triple {
-    width: 74%;
+    width: 74.8%;
 }
 .row-last {
     background-color: #df974c;
     color: white;
+}
+.button-one:hover {
+    opacity: 80%;
 }
