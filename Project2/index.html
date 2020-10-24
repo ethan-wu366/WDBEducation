@@ -7,13 +7,13 @@
 </head>
 <body>
 <div class="calculator">
-    <section class="top-screen">
-        36
-    </section>
-    <section class="buttons-area">
+    <label>
+        <input type="text" class="top-screen" value="" disabled/>
+    </label>
+    <div class="buttons-all">
         <div class="button-row">
-            <button class="button-one double">C</button>
-            <button class="button-one">&#8592</button>
+            <button class="button-one double" id="clear">C</button>
+            <button class="button-one" id="backspace">&#8592</button>
             <button class="button-one row-last">&#247</button>
         </div>
         <div class="button-row">
@@ -23,7 +23,7 @@
             <button class="button-one row-last">&#215</button>
         </div>
         <div class="button-row">
-            <button class="button-one">4</button>
+            <button class="button-one" id="4">4</button>
             <button class="button-one">5</button>
             <button class="button-one">6</button>
             <button class="button-one row-last">&#8722</button>
@@ -38,7 +38,7 @@
             <button class="button-one triple">0</button>
             <button class="button-one row-last">&#61</button>
         </div>
-    </section>
+    </div>
 </div>
 <script src="script.js"></script>
 </body>
