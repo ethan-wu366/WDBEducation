@@ -59,15 +59,20 @@ function resetCalculator() {
     calculator.waitingForSecondOperand = false;
     calculator.operator = null;
 }
+function backspace() {
+    const { displayValue } = calculator
+    const inputValue = parseFloat(displayValue);
+    calculator.displayValue = Math.floor(inputValue/10);
+}
 
 function updateDisplay() {
-    const display = document.querySelector('.calculator-screen');
+    const display = document.querySelector('.top-screen');
     display.value = calculator.displayValue;
 }
 
 updateDisplay();
 
-const keys = document.querySelector('.calculator-keys');
+const keys = document.querySelector('.buttons-all');
 keys.addEventListener('click', event => {
     const { target } = event;
     const { value } = target;
@@ -85,6 +90,9 @@ keys.addEventListener('click', event => {
             break;
         case 'all-clear':
             resetCalculator();
+            break;
+        case 'backspace':
+            backspace();
             break;
         default:
             if (Number.isInteger(parseFloat(value))) {
